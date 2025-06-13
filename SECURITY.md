@@ -2,7 +2,7 @@
 
 ## Disclosure Policy
 
-[[https://certcc.github.io/CERTCC/](https://certcc.github.io/certcc_disclosure_policy/)
+[https://certcc.github.io/CERTCC/](https://certcc.github.io/certcc_disclosure_policy/)
 
 ## Reporting a Vulnerability
 
